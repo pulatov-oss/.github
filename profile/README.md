@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/01d0f357-57c4-4848-957d-67fb0c9dc134)
+<img width="2560" height="1440" alt="bannertrcrab" src="https://github.com/user-attachments/assets/f46f3d79-c507-4f6a-8954-a887f5dbfca8" />
 
 ## Pulatov Open Source Software
 
